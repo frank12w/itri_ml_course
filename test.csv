@@ -1,3 +1,12 @@
-name,mask,weapon
-Raphael,red,sai
-Donatello,purple,bo staff
+--2021-01-20 06:25:58--  https://github.com/frank12w/itri_ml_course/blob/main/test.csv
+Resolving github.com (github.com)... 52.192.72.89
+Connecting to github.com (github.com)|52.192.72.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘test.csv.1’
+
+     0K .......... .......... .......... .......... ..........  630K
+    50K .......... .......... .......... ......                 915K=0.1s
+
+2021-01-20 06:25:59 (725 KB/s) - ‘test.csv.1’ saved [88354]
+
